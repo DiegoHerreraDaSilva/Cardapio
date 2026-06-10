@@ -124,17 +124,3 @@ Retorna todos os produtos cadastrados.
 
 ## 📸 Demonstração
 
-Adicione capturas de tela da aplicação nesta seção.
-
-## 📈 Melhorias Futuras
-
-* Autenticação de usuários
-* Categorias de produtos
-* Upload de imagens
-* Painel administrativo
-* Controle de estoque
-* Deploy em nuvem
-
-## 👨‍💻 Autor
-
-Desenvolvido por Diego Herrera.
